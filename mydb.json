@@ -1,0 +1,154 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2022,
+      "mileage": 15000,
+      "price": 25000,
+      "availability": "available",
+      "imageUrl": "https://imgs.search.brave.com/oY7v8vjyixWTpoaz_JiDDyW5j8flPl3XFzOYzRYtC1I/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9oaXBz/LmhlYXJzdGFwcHMu/Y29tL2htZy1wcm9k/L2ltYWdlcy8yMDIy/LWNhbXJ5LXhzZS1i/bHVlcHJpbnQtMDA2/LTE1MDB4NzM1LTE2/Mzc2MDI3OTYuanBn/P2Nyb3A9MC44MDV4/dzoxLjAweGg7MC4w/MzkweHcsMCZyZXNp/emU9OTgwOio"
+    },
+    {
+      "id": 2,
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2020,
+      "mileage": 20000,
+      "price": 18000,
+      "availability": "available",
+      "imageUrl": "https://imgs.search.brave.com/pf7UFMaA1xfyL_Lyr-i47ggIPtpdbT3_53iW-Vc46oI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaGdtc2l0ZXMu/bmV0L21lZC9ob25k/YS1jaXZpYy1zZG5f/MTAwNzE5NjQ2X20u/anBn"
+    },
+    {
+      "id": 3,
+      "make": "Ford",
+      "model": "F-150",
+      "year": 2018,
+      "mileage": 30000,
+      "price": 35000,
+      "availability": "sold",
+      "imageUrl": "https://imgs.search.brave.com/H300t_ytTBwc98t1xiE-RBhwMYx2C5vc-WlElhkfBZk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dGhlZHJpdmUuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIy/LzA3LzIxL0YtMTUw/LVRyZW1vci1WOC1I/ZXJvLmpwZz93PTgw/MA"
+    },
+    {
+      "id": 4,
+      "make": "BMW",
+      "model": "X5",
+      "year": 2021,
+      "mileage": 12000,
+      "price": 45000,
+      "availability": "available",
+      "imageUrl": "https://imgs.search.brave.com/Hdgew_f-80iO0VuPKG2w4PHcdkWmLGyMieodqaOKVZ0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9wbGF0/Zm9ybS5jc3RhdGlj/LWltYWdlcy5jb20v/aW4vdjIvc3RvY2tf/cGhvdG9zL2E0MzY3/YmRiLTY5ODYtNDc2/My04NmE4LWRiMjUz/NzRkNTI2OC9iZjFj/ZWNlNy0wZTI5LTQx/YmMtYTZiOS05OTIy/MzU5ZjQxMjMucG5n"
+    },  
+    {
+      "id": 5,
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "year": 2019,
+      "mileage": 25000,
+      "price": 38000,
+      "availability": "available",
+      "imageUrl": "https://imgs.search.brave.com/dLO4HO4dsXv3Y5eVqvXqyti4ejAh_y5Yi7KMGiVcgOc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9wbGF0/Zm9ybS5jc3RhdGlj/LWltYWdlcy5jb20v/aW4vdjIvc3RvY2tf/cGhvdG9zLzk3ZjBl/ZmU0LTU4NjktNGVk/YS05Y2MzLTQxMDk5/YWIzZjdkNC84MzUy/MmM2Mi05OWY3LTRm/YzctOGNhMS02OGQ1/ZmNjMjRmN2MucG5n"
+    },
+    {
+      "id": 6,
+      "make": "Audi",
+      "model": "A4",
+      "year": 2020,
+      "mileage": 18000,
+      "price": 32000,
+      "availability": "available",
+      "imageUrl": "https://imgs.search.brave.com/FkNruEkx2WRjiv6e4rZ9GaLCFs_bmqK_rZYbnmpaHV0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuYXV0b3RyYWRl/ci5jb20vc2NhbGVy/LzQwOC8zMDYvaG4v/Yy9jNGI2MGQ1YmE3/NjY0OTZlYjk0YzQx/ZTQyOTYzNzFjOS5q/cGc"
+    },
+    {
+      "id": 7,
+      "make": "Lexus",
+      "model": "RX 350",
+      "year": 2021,
+      "mileage": 15000,
+      "price": 40000,
+      "availability": "available",
+      "imageUrl": "https://imgs.search.brave.com/SVO-bSScZp9uc4n2V_KXQktFMZZ7o2lXMb7HIb_V_ZY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aW52ZW50b3J5cnNj/LmNvbS8zNDU2Mjkz/MjBfNjY4YWQ5OWE3/MDE4ZjhiYTljOWEy/ZTZkLmpwZw"
+    },
+    {
+      "id": 8,
+      "make": "Chevrolet",
+      "model": "Silverado",
+      "year": 2019,
+      "mileage": 28000,
+      "price": 30000,
+      "availability": "available",
+      "imageUrl": "https://imgs.search.brave.com/2MVlFKdFFQX0zLT_PJ8BTDGVWZXl3czRPX8XJZifDps/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YXV0b3RyYWRlci5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjAvMDIvMjAxOC1D/aGV2cm9sZXQtU2ls/dmVyYWRvLVo3MS0w/MjIuanBn"
+    },
+    {
+      "id": 9,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "year": 2020,
+      "mileage": 22000,
+      "price": 23000,
+      "availability": "available",
+      "imageUrl": "https://imgs.search.brave.com/3o5sk5oVr-cHQqdzFgVt5F52eH61zyTxtQVCfRvmG0w/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaGdtc2l0ZXMu/bmV0L21lZC8yMDIw/LWh5dW5kYWktc2Fu/dGEtZmVfMTAwNzEy/ODY1X20uanBn"
+    },
+    {
+      "id": 10,
+      "make": "Subaru",
+      "model": "Outback",
+      "year": 2021,
+      "mileage": 19000,
+      "price": 27000,
+      "availability": "available",
+      "imageUrl": "https://imgs.search.brave.com/GkmxMfRun42Hnr_QFc4qOU-oJuB3WSesGKNQFmWECZ0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9wbGF0/Zm9ybS5jc3RhdGlj/LWltYWdlcy5jb20v/aW4vdjIvc3RvY2tf/cGhvdG9zLzZhZTVk/MjNjLTQ4ZTUtNGM0/ZC1hODFiLTNiYjYx/YjJkZDMwNi84MzFj/N2M5OS1mOTNhLTQw/YjctOTI1Ny0xNmNk/OTQ2Mzg3ZTkucG5n"
+    },
+    {
+      "id": 11,
+      "make": "Nissan",
+      "model": "Altima",
+      "year": 2019,
+      "mileage": 24000,
+      "price": 20000,
+      "availability": "available",
+      "imageUrl": "https://imgs.search.brave.com/KEw_ml5_7voZ6-enzSPDCqU5OT5FoWumxXMoKMedMUU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZGlnaXRhbHRyZW5k/cy5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTgvMDkvMjAx/OS1uaXNzYW4tYWx0/aW1hXzI4LmpwZz9y/ZXNpemU9NjI1LDQx/NyZwPTE"
+    },
+    {
+      "id": 12,
+      "make": "Tesla",
+      "model": "Model S",
+      "year": 2020,
+      "mileage": 15000,
+      "price": 60000,
+      "availability": "available",
+      "imageUrl": "https://imgs.search.brave.com/Ub2NGS2k1AO53XgUey6D0eSUXFuaU7ZToHe2qtN6hvg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9lZGdl/Y2FzdC1pbWcueWFo/b28ubmV0L215c3Rl/cmlvL2FwaS9BRUNB/MEI3RUJFNjQ2NkFE/QjlGNDQ4OUIxNjVD/NjJBNTc1QzZEMUY5/MTAwRDkwNjk3NDNG/ODMyRUVBODI2NkFB/L2F1dG9ibG9nL3Jl/c2l6ZWZpbGxfdzc4/OF9oNTI1O3F1YWxp/dHlfODA7Zm9ybWF0/X3dlYnA7Y2NfMzE1/MzYwMDA7L2h0dHBz/Oi8vcy5hb2xjZG4u/Y29tL2NvbW1lcmNl/L2F1dG9kYXRhL2lt/YWdlcy9VU0M3MFRT/QzAyNEIwMjEwMDEu/anBn"
+    },
+    {
+      "id": 13,
+      "make": "Volkswagen",
+      "model": "Golf",
+      "year": 2017,
+      "mileage": 35000,
+      "price": 15000,
+      "availability": "available",
+      "imageUrl": "https://imgs.search.brave.com/w-x12ONu5x8QLxdK92alY_1guegVc3B7qEmy8_uq6RI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/ZHMuY29tL2Jsb2dz/LW1lZGlhL3NpdGVz/LzU3MS8yMDE3LzA1/LzA2MDkzODI2LzIw/MTktVlctR29sZi1H/VElfMl9vLmpwZw"
+    },
+    {
+      "id": 14,
+      "make": "Porsche",
+      "model": "911",
+      "year": 2021,
+      "mileage": 10000,
+      "price": 120000,
+      "availability": "available",
+      "imageUrl": "https://imgs.search.brave.com/iLdiZYy7hp1kkZhZcwq5OZa-s34ymmsiRGf3X0ZImyg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jaW1n/MS5pYnNydi5uZXQv/aWJpbWcvaGdtLzE5/MjB4MTA4MC0xLzEw/MC83OTgvMjAyMS1w/b3JzY2hlLTkxMS1j/YXJyZXJhLXR1cmJv/XzEwMDc5ODY3My5q/cGc"
+    },
+    {
+      "id": 15,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "year": 2020,
+      "mileage": 18000,
+      "price": 35000,
+      "availability": "available",
+      "imageUrl": "https://imgs.search.brave.com/KR1uDt_0HV5q8_25YvS9h7w3ZMaQiCNrsgYaOG2farY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9kaS11/cGxvYWRzLXBvZDE2/LmRlYWxlcmluc3Bp/cmUuY29tL3NhbWxl/bWFuY2hyeXNsZXJq/ZWVwZG9kZ2VibG9v/bWluZ3Rvbi91cGxv/YWRzLzIwMTkvMTAv/V2hpdGUtMjAyMC1K/ZWVwLVdyYW5nbGVy/LVVubGltaXRlZC5q/cGc"
+    }
+  ]
+}

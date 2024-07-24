@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vehicle Sales Management System</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <header>
+    <h1>Vehicle Sales Management System</h1>
+    <nav>
+      <input type="text" id="search-input" placeholder="Search by make or model">
+      <button id="filter-all">All Vehicles</button>
+      <button id="filter-available">Available</button>
+      <button id="filter-sold">Sold</button>
+    </nav>
+  </header>
+
+  <main id="vehicle-list" class="vehicle-list-container"></main>
+  <aside id="vehicle-details"></aside>
+
+  <section id="sales-management">
+    <h2>Sales Management</h2>
+    <div id="sales-stats">
+      <h3>Sales Statistics</h3>
+      <p>Total Sales: <span id="total-sales">0</span></p>
+      <p>Revenue: $<span id="total-revenue">0</span></p>
+    </div>
+    <button id="generate-report">Generate Sales Report</button>
+  </section>
+
+  <script src="./script.js"></script>
+</body>
+</html>
